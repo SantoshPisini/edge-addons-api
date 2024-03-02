@@ -3,6 +3,8 @@
 
 This repository is a library for the [Microsoft Edge Add-ons API ](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/api/using-addons-api) that is used for uploading and publishing new versions of your add-ons to the [Microsoft Edge Add-ons store](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home).
 
+![NuGet Version](https://img.shields.io/nuget/v/SantoshPisini.EdgeAddonsAPI?label=NuGet&link=https%3A%2F%2Fwww.nuget.org%2Fpackages%2FSantoshPisini.EdgeAddonsAPI)
+
 ## Usage
 
 ### Minimal Edge Client
